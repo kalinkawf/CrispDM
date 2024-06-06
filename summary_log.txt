@@ -3,8 +3,8 @@
 Dep. Variable:                cnt_log   R-squared:                       0.824
 Model:                            OLS   Adj. R-squared:                  0.823
 Method:                 Least Squares   F-statistic:                     1621.
-Date:                Tue, 04 Jun 2024   Prob (F-statistic):               0.00
-Time:                        19:43:00   Log-Likelihood:                -13201.
+Date:                Thu, 06 Jun 2024   Prob (F-statistic):               0.00
+Time:                        22:16:27   Log-Likelihood:                -13201.
 No. Observations:               13903   AIC:                         2.648e+04
 Df Residuals:                   13862   BIC:                         2.679e+04
 Df Model:                          40                                         
